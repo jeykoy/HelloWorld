@@ -1,0 +1,9 @@
+C:\Users\Student\AppData\Local\Temporary Projects\ActivityProject\obj\x86\Debug\ActivityProject.Form1.resources
+C:\Users\Student\AppData\Local\Temporary Projects\ActivityProject\obj\x86\Debug\ActivityProject.Properties.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\ActivityProject\obj\x86\Debug\ActivityProject.csproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\ActivityProject\bin\Debug\ActivityProject.exe
+C:\Users\Student\AppData\Local\Temporary Projects\ActivityProject\bin\Debug\ActivityProject.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\ActivityProject\obj\x86\Debug\ActivityProject.exe
+C:\Users\Student\AppData\Local\Temporary Projects\ActivityProject\obj\x86\Debug\ActivityProject.pdb
+C:\Users\Student\documents\visual studio 2010\Projects\ActivityProject\ActivityProject\obj\x86\Debug\ActivityProject.exe
+C:\Users\Student\documents\visual studio 2010\Projects\ActivityProject\ActivityProject\obj\x86\Debug\ActivityProject.pdb
